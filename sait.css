@@ -1,0 +1,239 @@
+.section1 {
+    background-color: rgba(159, 171, 219, 1);
+    padding-bottom: 2%;
+    height: 1116px;
+}
+.zagolovok1 {
+    margin-left: 13%;
+    margin-top: 13%;
+}
+.zagolovok1 h2{
+    font-family: 'Magra';
+    font-size: 48px;
+    color: #595959;
+}
+.zagolovok1 h1{
+    font-family: 'Magra';
+    font-style: normal;
+    font-size: 64px;
+    color: white;
+}
+.logo {
+    width: 179px;
+    height: 113px;
+    background-color: white;
+}
+.logotype {
+    margin-top: 17%;
+    margin-left: 15%;
+}
+.cherta {
+    width: 640px;
+    height: 8px;
+    background: #BDC3DA;
+    margin-left: 31%;
+    margin-top: 5%;
+}
+.section2 {
+    padding-bottom: 8%;
+}
+.zagolovok2 h3{
+    font-family: 'Magra';
+    font-style: normal;
+    font-size: 48px;
+    color: #595959;
+    text-align: center;
+    margin-top: 0px;
+}
+.cards {
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    justify-content: center;
+}
+.card {
+    margin: 1%;
+    background-image: url(new_1.jpg);
+    display: flex;
+    justify-content: flex-start;
+    width: 555px;
+    height: 614px;
+}
+.card p{
+    color: white;
+    display: flex;
+    margin-right: 20%;
+    margin-left: 5%;
+    font-family: 'Magra';
+    font-style: normal;
+    font-size: 36px;
+}
+.card div{
+    width: 22px;
+    height: 614px;
+    color: #595959;
+}
+.section3 {
+    background-image: url(Rectangle\ 23.jpg);
+    width: 2078px;
+    height: 1000px;
+}
+.text {
+    color: white;
+}
+.zagolovok3 h3{
+    color: white;
+    font-family: 'Magra';
+    font-style: normal;
+    font-size: 48px;
+    padding-left: 29%;
+    margin-top: 0px;
+}
+.cherta1 {
+    width: 640px;
+    height: 8px;
+    background: #BDC3DA;
+    margin-left: 22%;
+}
+.zagolovok3 {
+    padding-top: 2%;
+}
+.text h4{
+    text-align: center;
+    padding-right: 26%;
+    font-family: 'Magra';
+    font-style: normal;
+    font-size: 48px;
+    line-height: 58px;
+}
+.text p{
+    font-family: 'Magra';
+    font-style: normal;
+    font-size: 40px;
+    line-height: 49px;
+    margin-left: 2%;
+}
+.text ul{
+    font-family: 'Magra';
+    font-style: normal;
+    font-size: 40px;
+    line-height: 49px;
+    margin-left: 2%;
+}
+.cards2 {
+    display: flex;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+.card21{
+    width: 728px;
+    height: 780px;
+    background: #9FABDB;
+    margin-left: 5%;
+}
+.cards2 h3{
+    font-family: 'Magra';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.buttom1{
+width: 465px;
+height: 104px;
+background: #FFFFFF;
+border-radius: 15px;
+margin-left: 15%;
+display: flex;
+justify-content: center;
+margin-top: 60%;
+}
+.buttom2{
+    width: 465px;
+    height: 104px;
+    background: #FFFFFF;
+    border-radius: 15px;
+    margin-left: 15%;
+    display: flex;
+    justify-content: center;
+    margin-top: 42%;
+}
+.buttom1 a{
+    font-family: 'Magra';
+font-style: normal;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #595959;
+}
+.buttom2 a{
+    font-family: 'Magra';
+font-style: normal;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #595959;
+}
+.zagolovok4 h3{
+    font-family: 'Magra';
+    font-style: normal;
+    font-size: 48px;
+    color: #595959;
+    text-align: center;
+    margin-top: 0px;
+}
+.news1 {
+    display: flex;
+    justify-content: center;
+    margin-right: 7%;
+}
+.n img{
+border-radius: 25px 25px 0px 0px;
+}
+.n div{
+    background-color: white;
+    padding-bottom: 6px;
+}
+.n {
+    filter: drop-shadow(18px 21px 47px rgba(0, 44, 96, 0.25));
+    margin-left: 10%;
+    margin-bottom: 8%;
+}
+.date {
+font-family: 'Magra';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+margin-top: 0px;
+padding-top: 4px;
+padding-right: 4px;
+display: flex;
+color: #000000;
+justify-content: flex-end;
+}
+.text1 {
+font-family: 'Magra';
+font-size: 16px;
+line-height: 29px;
+text-align: center;
+color: #000000;
+}
+.section5 {
+    background-color:#9FABDB;
+    height: 300px
+}
+.section5 p{
+font-family: 'Magra';
+font-size: 24px;
+line-height: 200%;
+color: #595959;
+margin-left: 5%;
+margin-top: 3%;
+}
